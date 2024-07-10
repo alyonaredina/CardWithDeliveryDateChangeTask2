@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/j9cxe5bu75a72o1m?svg=true)](https://ci.appveyor.com/project/alyonaredina/cardwithdeliverydatechange)
+[![Build status](https://ci.appveyor.com/api/projects/status/hqruycixoggg96go?svg=true)](https://ci.appveyor.com/project/alyonaredina/cardwithdeliverydatechangetask2)
